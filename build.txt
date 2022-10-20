@@ -2,4 +2,5 @@ shambhu
 working as a devops engineer
 having 1 year of experience of build and release engineer
 worked on most of techinical skills like git and github/bitbucket jenkins
-docker kubernets aws ansible 
+docker kubernets aws ansible
+jira bug tarcking tool 
